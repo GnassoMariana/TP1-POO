@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "TP1-POO\Entidades.csproj", "{C879E92C-AD5A-4DD3-A1A5-ECD765F7652A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circunferencia", "Circunferencia\Circunferencia.csproj", "{D9D90625-A21A-4AC5-B4C9-CEE88333669B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C879E92C-AD5A-4DD3-A1A5-ECD765F7652A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C879E92C-AD5A-4DD3-A1A5-ECD765F7652A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C879E92C-AD5A-4DD3-A1A5-ECD765F7652A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C879E92C-AD5A-4DD3-A1A5-ECD765F7652A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D90625-A21A-4AC5-B4C9-CEE88333669B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D90625-A21A-4AC5-B4C9-CEE88333669B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D90625-A21A-4AC5-B4C9-CEE88333669B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D90625-A21A-4AC5-B4C9-CEE88333669B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B8AD9A-B8F3-4BE8-A34D-15B8843E74CD}
+	EndGlobalSection
+EndGlobal
